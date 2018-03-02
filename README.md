@@ -10,5 +10,5 @@ Runs Nmap with the NSE scripts for detecting ms08-067 and ms17-010 then opens me
 * Run credential harvester
 * Enable RDP
 
-*** Usage
+### Usage
 ```./smb-autpwn.py -l targetips.txt```
